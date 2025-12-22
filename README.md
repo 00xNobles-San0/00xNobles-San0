@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmedsabrymohamed/">
-    <img src="img.shields.io" />
+    
   </a>
 </p>
 
@@ -41,4 +41,4 @@ I am a passionate **Cybersecurity Engineer** and **Network Specialist** focused 
 ---
 
 ### 📫 Connect with Me
-- **Email:** [ahmed.sabry.mohamed403@gmail.com]
+- **Email:** ahmed.sabry.mohamed403@gmail.com
