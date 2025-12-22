@@ -21,31 +21,24 @@ I am a passionate **Cybersecurity Engineer** and **Network Specialist** focused 
 ### 🚀 Technical Skills
 
 #### **Offensive Security & Red Teaming**
-![Metasploit](img.shields.io) 
-![Nmap](img.shields.io) 
-![Burp Suite](img.shields.io) 
-![Kali Linux](img.shields.io)
+![Metasploit]
+![Nmap]
+![Burp Suite]
+![Kali Linux]
 
 #### **System Administration & Networking**
-![Linux](img.shields.io) 
-![Red Hat](img.shields.io) 
-![Windows Server](img.shields.io) 
-![Cisco](img.shields.io)
+![Linux]
+![Red Hat]
+![Windows Server]
+![Cisco]
 
 #### **Automation & Scripting**
-![Python](img.shields.io) 
-![Bash](img.shields.io) 
-![PowerShell](img.shields.io)
+![Python]
+![Bash]
+![PowerShell]
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="github-readme-stats.vercel.app" alt="Ahmed's GitHub Stats" />
-</p>
 
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Ahmed Sabry Mohamed](https://www.linkedin.com/in/ahmedsabrymohamed/)
-- **Email:** [YOUR_EMAIL@EXAMPLE.COM]
+- **Email:** [ahmed.sabry.mohamed403@gmail.com]
