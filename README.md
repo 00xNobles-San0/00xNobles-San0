@@ -21,21 +21,21 @@ I am a passionate **Cybersecurity Engineer** and **Network Specialist** focused 
 ### 🚀 Technical Skills
 
 #### **Offensive Security & Red Teaming**
-![Metasploit]
-![Nmap]
-![Burp Suite]
-![Kali Linux]
+!Metasploit
+!Nmap
+!Burp Suite
+!Kali Linux
 
 #### **System Administration & Networking**
-![Linux]
-![Red Hat]
-![Windows Server]
-![Cisco]
+!Linux
+!Red Hat
+!Windows Server
+!Cisco
 
 #### **Automation & Scripting**
-![Python]
-![Bash]
-![PowerShell]
+!Python
+!Bash
+!PowerShell
 
 
 ---
